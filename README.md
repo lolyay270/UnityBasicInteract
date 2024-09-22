@@ -1,5 +1,5 @@
 ## Purpose
-This repo has a unity project that shows some basic interaction by clicking or pressing the interact button on a controller
+This repo has a unity project that shows some basic interaction by clicking or pressing the interact button on a controller. <br/>
 The projet also shows the "hover" effects you can get when you use "OnMouseEnter" and the QuickOutline Asset together
 
 ## How to use
